@@ -8,7 +8,6 @@ import java.util.List;
 
 @Repository
 public class UsuarioRepository {
-
     public void save(Usuario usuario){
         System.out.println("SAVE - Recebendo o usuário na camada de repositório");
         System.out.println(usuario);
