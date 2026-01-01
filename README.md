@@ -18,7 +18,7 @@ Para o Swagger funcionar no Spring Boot 4.0.1, verifique se no seu pom.xml:
         <groupId>org.springdoc</groupId>
         <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
         <version>2.3.0</version>
-    </dependency>
+    </dependency> 
 ```
 
 ## Desafios Enfrentados e Aprendizados
